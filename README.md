@@ -1,8 +1,8 @@
 # dz_example
 
 
-# Welcome
-Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO. 
+# Title
+Description
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
 <div>
